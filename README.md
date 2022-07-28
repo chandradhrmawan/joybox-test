@@ -29,6 +29,11 @@ rename `.env.example` menjadi `.env`
 ```bash
 $ npm install
 ```
+  Run unit test:
+
+```bash
+$ npm run test
+```
 
   Start the server:
 
